@@ -1,0 +1,5 @@
+LINODE_TOKEN=
+
+VULTR_API_KEY=
+
+TF_VAR_root_password=
