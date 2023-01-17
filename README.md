@@ -1,5 +1,9 @@
 # Clique - Demo for Private and Secure Multi-Cloud Network with WireGuard
 
+The demo uses [Linode](https://www.linode.com/lp/refer/?r=8d4f388136825d3d04a90d3f7b0ce6b29732a835) (referral) and [Vultr](https://www.vultr.com/?ref=8025299) (referral) to set up a private and secure multi-cloud network between 6 servers (3 on each cloud provider) using WireGuard.
+
+![](cover.png)
+
 This demo illustrates how you may set up WireGuard to create a private and secure multi-cloud network. An accompanying article goes into details of this setup: https://hjr265.me/blog/private-secure-multi-cloud-network-wireguard
 
 Please note that this demo and the article only outline the process of automating the setup process of WireGuard. Neither this demo nor the article is a comprehensive server and/or network hardening guide. We recommend you follow all the usual best practices and use this as a tutorial for only automating the WireGuard setup.
